@@ -16,7 +16,7 @@ Sou fluente em inglês (en-US), o que me permite consumir conteúdos técnicos, 
 
 ---
 
-## 🚀 Tecnologias que uso:
+## 🚀 Tecnologias e linguagens que uso:
 
 <div align="center">
 
@@ -32,16 +32,10 @@ Sou fluente em inglês (en-US), o que me permite consumir conteúdos técnicos, 
   [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
   [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 
   
 </div>
 
 ---
-
-
-### 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vini090608&show_icons=true&theme=dark)
-
-
