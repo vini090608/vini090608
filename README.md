@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/04/49/df/0449dfc633fe5cc592d838245f4906b7.gif" width="100%" height="200px"/>
+
 # 👋 Olá, eu sou Vinicius Pereira
 
 <p align="center">
@@ -15,34 +17,6 @@ Tenho experiência prática com tecnologias do ecossistema JavaScript/TypeScript
 <p align="center">
 Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdos técnicos avançados, colaborar em ambientes internacionais e acompanhar tendências globais da área de tecnologia.
 </p>
-
----
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📌 Foco Atual</h3>
-
-- Desenvolvimento de APIs RESTful escaláveis  
-- Arquitetura de software (camadas, SOLID, Clean Architecture)  
-- Performance e boas práticas no ecossistema Node.js  
-- Integração com bancos de dados relacionais (SQL)  
-
-<br/>
-
-
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
 
 <h2 align="center">🔗 Conecte-se comigo</h2>
 
@@ -83,3 +57,34 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 
 </div>
 
+---
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4>📌 Foco Atual</h4>
+
+- Desenvolvimento de APIs RESTful escaláveis  
+- Arquitetura de software (camadas, SOLID, Clean Architecture)  
+- Performance e boas práticas no ecossistema Node.js  
+- Integração com bancos de dados relacionais (SQL)  
+
+<br/>
+<h4>📈 Objetivo</h4>
+
+Evoluir continuamente como ciêntista da computação, aprofundando conhecimentos em <strong>sistemas distribuídos</strong>, <strong>backend de alta performance</strong> e <strong>boas práticas de arquitetura</strong>.
+
+</td>
+
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
