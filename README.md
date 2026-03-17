@@ -1,6 +1,3 @@
-<img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif" width="100%" height="50%" />
-
-
 # 👋 Olá, eu sou Vinicius Pereira
 
 <p align="center">
