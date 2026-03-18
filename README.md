@@ -21,8 +21,11 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 <h2 align="center">🔗 Conecte-se comigo</h2>
 
 <p align="center">
-<a href="mailto:viniciuspereiraassuncao@gmail.com">
+  <a href="mailto:viniciuspereiraassuncao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+    <a href="https://github.com/vini090608">
+    <img src="https://komarev.com/ghpvc/?username=vini090608&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
+  </a>
   </a>
   <a href="https://www.linkedin.com/in/viniciuspa090608/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
@@ -111,24 +114,26 @@ Evoluir continuamente como ciêntista da computação, aprofundando conhecimento
 
 ---
 
-
-
+<div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vini090608&theme=merko" />
+    </td> 
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vini090608&theme=merko" />
+    </td>
+  </tr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vini090608&show_icons=true&theme=merko)
-
-</td>
-
-
-</td>
-
-<td width="50%" align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini090608&layout=compact&theme=merko)
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vini090608&theme=merko" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=vini090608&theme=merko&hide_border=false" />
+    </td>
+  </tr>
 </table>
+
+</div>
