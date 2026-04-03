@@ -135,19 +135,19 @@ Evoluir continuamente como ciêntista da computação, aprofundando conhecimento
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vini090608&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciuspa090608&theme=merko" />
     </td> 
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vini090608&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciuspa090608&theme=merko" />
     </td>
   </tr>
 
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vini090608&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciuspa090608&theme=merko" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=vini090608&theme=merko&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=viniciuspa090608&theme=merko&hide_border=false" />
     </td>
   </tr>
 </table>
