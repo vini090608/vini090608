@@ -45,6 +45,8 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
@@ -123,12 +125,6 @@ Evoluir continuamente como ciêntista da computação, aprofundando conhecimento
 <img src="https://i.pinimg.com/originals/04/49/df/0449dfc633fe5cc592d838245f4906b7.gif" width="100%" height="200px"/>
 
 ---
-
-
-
-
-
-
 
 <div align="center">
 
